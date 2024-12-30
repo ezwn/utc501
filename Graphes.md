@@ -2,7 +2,7 @@
 
 ## Définition
 
-Quel sont les deux ensembles qui définissent un graphe ? Premièrement l'ensemble de ses sommets, et deuxièmement ensemble de ses arrêtes.
+Quels sont les deux ensembles qui définissent un graphe ? Premièrement l'ensemble de ses sommets, et deuxièmement ensemble de ses arrêtes.
 
 ## Graphes particuliers
 
